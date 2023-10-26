@@ -21,3 +21,5 @@ print("How are you?")
 # old lines that were changed show as blue
 print(my_function(2, 3))
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+x = 3
